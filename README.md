@@ -1,4 +1,10 @@
-## Hi there 👋
+💭 I think about how we think...
+
+🧠 Behavioral Science Researcher at IIT Bombay 
+🎓 IIT Kanpur Alum
+💝 ex-Product Manager
+🩺 Medical Drama Fandom 
+✨ Astro Enthusiast
 
 <!--
 **karishma-expt/karishma-expt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
